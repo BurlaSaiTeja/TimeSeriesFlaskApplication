@@ -1,4 +1,4 @@
-# Capstone Project AI Academy - Time Seried Flask Application
+# Capstone Project AI Academy - Time Series Flask Application
 
 
 ## Check Point 1
